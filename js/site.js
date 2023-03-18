@@ -1,5 +1,5 @@
 //get the values from the Page
-//starts ir controller function
+//starts in controller function
 function getValues(){
     //get values from the page
     let startValue = document.getElementById("startValue").value;
